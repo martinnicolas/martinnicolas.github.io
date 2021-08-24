@@ -5,17 +5,33 @@
 layout: default
 ---
 
-# Sitio Web
+![Inicio](/assets/images/inicio.png)
 
-El sitio web permite la creación de reclamos para que sean visibilizados.
+### Controlá los reclamos destacados en tu ciudad!
+> <div width="50%" align="left">
+> Podés ver el listado de reclamos creados por el resto de los 
+> usuarios y apoyarlos para que sean valorados
+> </div>
+> <div width="50%" align="right">
+> <img src="/assets/images/reclamos_destacados.png" alt="Reclamos Destacados" width="350" height="200"/> 
+> </div>
 
-![Crear Reclamos](/assets/images/crear_reclamos.png)
+### Crea tu reclamo!
+> <div width="50%" align="left">
+> Crea tu reclamo para que sea visto por el resto de los 
+> usuarios de la comunidad y apoyalo
+> </div>
+> <div width="50%" align="right">
+> <img src="/assets/images/crear_reclamos.png" alt="Crear Reclamos" width="350" height="200"/> 
+> </div>
 
-Cada usuario puede acceder a un listado de sus reclamos cargados en la plataforma.
+### Controla tus reclamos!
+> <div width="50%" align="left">
+> Accede con tu usuario y controlá el apoyo que recibieron tus
+> reclamos por el resto de la comunidad
+> </div>
+> <div width="50%" align="right">
+> <img src="/assets/images/mis_reclamos.png" alt="Mis Reclamos" width="350" height="200"/> 
+> </div>
 
-![Crear Reclamos](/assets/images/mis_reclamos.png)
-
-Cada usuario puede acceder a un listado de sus reclamos cargados en la plataforma.
-
-![Crear Reclamos](/assets/images/reclamos_destacados.png)
 
